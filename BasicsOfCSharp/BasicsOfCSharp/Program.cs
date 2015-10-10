@@ -13,7 +13,7 @@ namespace BasicsOfCSharp
             Console.WriteLine("Property String");
             Console.WriteLine("Length, ,ToUpper(), ToLower(), Replace(), Concat(), Equals()");
             Console.WriteLine("Trim(), Remove(), Insert(), PadLeft(), PadRight(), Format()");
-            Console.WriteLine("Compare(), Concatins(), Split()");
+            Console.WriteLine("Compare(), Concatins()");
             Console.WriteLine();
 
             string str1 = "friday";
