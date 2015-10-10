@@ -12,12 +12,12 @@ namespace Enum
         {
             Colors b = Colors.Black;
             Colors r = Colors.Red;
-            Colors count = Colors.Number;
+            Colors count = Colors.Count;
             Console.WriteLine(b);//Black
             Console.WriteLine(r);//Red
             Console.WriteLine(count);//Number
             Console.WriteLine();
-            Console.WriteLine("{0} color = {1}", count, (int)count);//Number color = 9
+            Console.WriteLine("{0} color = {1}", count, (int)count);//Count color = 9
 
             Console.ReadKey();
         }
@@ -33,6 +33,6 @@ namespace Enum
         Indigo,
         Black,
         White,
-        Number = 9
+        Count = 9
     }
 }
