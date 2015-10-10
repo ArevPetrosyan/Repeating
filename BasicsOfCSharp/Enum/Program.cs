@@ -17,7 +17,7 @@ namespace Enum
             Console.WriteLine(r);//Red
             Console.WriteLine(count);//Number
             Console.WriteLine();
-            Console.WriteLine("{0} color = {1}", count, (int)count);//Count color = 9
+            Console.WriteLine("{0} color = {1}", count, (int)count);//Number color = 9
 
             Console.ReadKey();
         }
